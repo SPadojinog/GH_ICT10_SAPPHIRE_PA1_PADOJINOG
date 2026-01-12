@@ -1,4 +1,4 @@
-# Temperature Converter with Fever Check
+# Practical Activity - Temperature Converter
 from pyscript import document
 
 def convert_temperature(e):
@@ -23,3 +23,4 @@ def convert_temperature(e):
     """
 
     result_element.innerHTML = result
+
